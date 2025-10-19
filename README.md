@@ -42,8 +42,8 @@ yfinance
 
 Clone this repository
 
-git clone https://github.com/yourusername/stock-prediction-rnn-lstm-gru.git
-cd stock-prediction-rnn-lstm-gru
+git clone https://github.com/skyaseen005/DeepTradeAI-Predicting-Amazon-Stock-Prices-with-RNN-LSTM-GRU.git
+cd stockprice
 
 
 Install dependencies
